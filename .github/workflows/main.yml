@@ -9,8 +9,13 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Configure git
+        run: |
+          git config user.email "iam@jamesiv.es"
+          git config user.name "James Ives"
+
       - name: Install and Build 🔧 
         run: |
           echo ${{ secrets.GITHUB_TOKEN }}
           npm install
-          npm run build
+          npm run deploy
