@@ -1,2 +1,2 @@
 (this["webpackJsonpjhonata11.github.io"]=this["webpackJsonpjhonata11.github.io"]||[]).push([[0],{9:function(t,n,e){"use strict";e.r(n);var i=e(1),o=e.n(i),c=e(3),r=e.n(c),a=e(0);var u=function(){return Object(a.jsx)("div",{children:"Hello world, 2"})},h=function(t){t&&t instanceof Function&&e.e(3).then(e.bind(null,10)).then((function(n){var e=n.getCLS,i=n.getFID,o=n.getFCP,c=n.getLCP,r=n.getTTFB;e(t),i(t),o(t),c(t),r(t)}))};r.a.render(Object(a.jsx)(o.a.StrictMode,{children:Object(a.jsx)(u,{})}),document.getElementById("root")),h()}},[[9,1,2]]]);
-//# sourceMappingURL=main.309c7f7a.chunk.js.map
+//# sourceMappingURL=main.53e4c890.chunk.js.map
