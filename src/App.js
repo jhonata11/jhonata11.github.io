@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      Hello world, 2
+      Testing github.dev
     </div>
   );
 }
